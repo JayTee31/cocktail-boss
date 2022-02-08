@@ -1,0 +1,36 @@
+{
+  "name": "sex on the beach",
+  "preparation": "STEP 1\nFill two tall glasses with ice cubes. Pour the vodka, peach schnapps and fruit juices into a large jug and stir.\n\nSTEP 2\nDivide the mixture between the two glasses and stir gently to combine. Garnish with the cocktail cherries and orange slices.",
+  "ingredients": [
+    {
+      "name": "ice",
+      "amount": "2",
+      "unit": "cube(s)"
+    },
+    {
+      "name": "vodka",
+      "amount": "50",
+      "unit": "ml"
+    },
+    {
+      "name": "peach schnapps",
+      "amount": "25",
+      "unit": "ml"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "50",
+      "unit": "ml"
+    },
+    {
+      "name": "glacé cherries",
+      "amount": "1",
+      "unit": "piece"
+    },
+    {
+      "name": "orange juice",
+      "amount": "50",
+      "unit": "ml"
+    }
+  ]
+}
